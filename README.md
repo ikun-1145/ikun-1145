@@ -59,7 +59,8 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikun-1145&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-stats.clhr.top/api?username=ikun-1145&show_icons=true&theme=tokyonight&hide_border=true"/>
+
   <br/>
   <img src="https://streak-stats.demolab.com?user=ikun-1145&theme=tokyonight&hide_border=true" />
 </p>
