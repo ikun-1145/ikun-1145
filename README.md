@@ -48,8 +48,8 @@
   <img src="https://img.shields.io/badge/YouTube-霜蓝-red?logo=youtube">
 </a>
 
-<a href="https://x.com/liuxizeubuntu">
-  <img src="https://img.shields.io/badge/X-@liuxizeubuntu-black?logo=twitter">
+<a href="https://x.com/sunlandccc">
+  <img src="https://img.shields.io/badge/X-@sunlandccc-black?logo=twitter">
 </a>
 
 <a href="https://xhslink.com/m/7l2hsMjti9x">
