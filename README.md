@@ -4,6 +4,7 @@
 <!-- 打字动画 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;AI+%7C+Web+%7C+Flutter+Developer;代码是工具，创造才是目的。" />
+
 </p>
 
 ---
@@ -28,7 +29,8 @@
 ## 🏆 Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikun-1145&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ikun-1145&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
+
 </p>
 
 ---
@@ -44,9 +46,9 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ikun-1145&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=ikun-1145&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ikun-1145&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
