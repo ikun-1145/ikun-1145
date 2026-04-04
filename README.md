@@ -45,7 +45,14 @@
   <a href="https://b23.tv/uHFlzdD"><img src="https://img.shields.io/badge/Bilibili-霜蓝-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"></a>
   &nbsp;
   <a href="https://youtube.com/channel/UC4GV5yWfCFK3WBlkaPML7Lg"><img src="https://img.shields.io/badge/YouTube-霜蓝-FF0000?style=for-the-badge&logo=youtube"></a>
+  &nbsp;
+  <a href="https://v.kuaishou.com/KtGjpgoR"><img src="https://img.shields.io/badge/快手-霜蓝-FF6200?style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAhltnZRm9HGKJhr2GANY0gEeaNgdto05Dw4fmj0VHu4w"><img src="https://img.shields.io/badge/抖音-霜蓝-000000?style=for-the-badge"></a>
+  &nbsp;
+  <a href="https://xhslink.com/m/7l2hsMjti9x"><img src="https://img.shields.io/badge/小红书-霜蓝-FF2442?style=for-the-badge"></a>
 </p>
+
 
 ---
 
