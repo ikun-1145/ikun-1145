@@ -1,11 +1,11 @@
 <!-- 顶部 Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=霜蓝%20·%20Sunland&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20AI%20%7C%20Web%20%7C%20Flutter&descAlignY=56&descSize=18"/>
 
-<!-- 打字动画 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;AI+%7C+Web+%7C+Flutter+Developer;代码是工具，创造才是目的。" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Builder-AI%20%7C%20Web%20%7C%20Flutter-0ea5e9?style=for-the-badge" />
 </p>
+
 
 ---
 
@@ -26,14 +26,6 @@
 
 ---
 
-## 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikun-1145&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
-
-</p>
-
----
 
 ## 📈 贡献图
 
