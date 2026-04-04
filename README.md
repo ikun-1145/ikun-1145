@@ -29,11 +29,34 @@
 </a>
 
 <a href="https://sunland.dev">
-  <img src="https://img.shields.io/badge/Website-sunland.dev-blue">
+  <img src="https://img.shields.io/badge/Website-sunland.dev-0ea5e9">
+</a>
+
+<a href="https://b23.tv/uHFlzdD">
+  <img src="https://img.shields.io/badge/Bilibili-霜蓝-ff69b4?logo=bilibili">
+</a>
+
+<a href="https://v.kuaishou.com/KtGjpgoR">
+  <img src="https://img.shields.io/badge/快手-霜蓝-black">
+</a>
+
+<a href="https://www.douyin.com/user/MS4wLjABAAAAhltnZRm9HGKJhr2GANY0gEeaNgdto05Dw4fmj0VHu4w">
+  <img src="https://img.shields.io/badge/抖音-霜蓝-black">
+</a>
+
+<a href="https://youtube.com/channel/UC4GV5yWfCFK3WBlkaPML7Lg">
+  <img src="https://img.shields.io/badge/YouTube-霜蓝-red?logo=youtube">
+</a>
+
+<a href="https://x.com/liuxizeubuntu">
+  <img src="https://img.shields.io/badge/X-@liuxizeubuntu-black?logo=twitter">
+</a>
+
+<a href="https://xhslink.com/m/7l2hsMjti9x">
+  <img src="https://img.shields.io/badge/小红书-霜蓝-ff2442">
 </a>
 
 </p>
-
 ---
 
 ## ⚡ 技术栈
